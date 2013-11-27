@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Font 'Labiryntowy' i opis alfabetu.
 'Labyrinth' font and description in polish language.
 
@@ -12,9 +11,3 @@ http://alfabetozdobny.appspot.com/?str=labiryntowy
 
 Font jest rozpowszechniany na licencji freeware.
 (c) Copyright by Jacek Szewczyk A.D. 2008-2013
-=======
-Labiryntowy
-===========
-
-Font 'Labiryntowy' i opis. Labirynth font and description in polish language.
->>>>>>> 940a4a1991476a79f75e4c5ffd729d342f817fa1
