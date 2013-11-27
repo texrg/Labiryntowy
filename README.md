@@ -10,4 +10,5 @@ Najnowsza wersja na stronie www [latest version on www]
 http://alfabetozdobny.appspot.com/?str=labiryntowy
 
 Font jest rozpowszechniany na licencji freeware.
+
 (c) Copyright by Jacek Szewczyk A.D. 2008-2013
