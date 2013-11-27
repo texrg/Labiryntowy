@@ -23,9 +23,9 @@ most of the characters needed to write the titles, names and
 monograms.
 
 %description -l pl.UTF-8
-Font Labiryntowy_pl powstaÅ‚ jako praktyczna realizacja idei alfabetu
-labiryntowego. Font ten zawiera ponad 300 ligatur i wiÄ™kszoÅ›Ä‡ znakÃ³w
-potrzebnych do wykonania tytuÅ‚Ã³w, imion i monogramÃ³w.
+Font Labiryntowy_pl powstał‚ jako praktyczna realizacja idei alfabetu
+labiryntowego. Font ten zawiera ponad 300 ligatur i większość znaków
+potrzebnych do wykonania tytułów, imion i monogramów.
 
 %prep
 %setup -q -n Labiryntowy-%{version}
